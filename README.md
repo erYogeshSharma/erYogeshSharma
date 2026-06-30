@@ -1,21 +1,17 @@
-## Vibe coding across the stack.
-
-I build **things that think** — AI agents, distributed systems, and clean UIs.
-
+# Hi, I'm Yogesh 👋
+ 
+I build AI-native systems — agents, distributed backends, and the interfaces that tie them together.
+ 
 ---
-
-**Languages**  
-JS / TS / Python / Go  
-
-**Frameworks**  
-Angular / React / Node / FastAPI / Django  
-
-**AI Systems**  
-LangGraph • RAG • Vector DBs  
-
-**Infra**  
-AWS • Linux • MongoDB • Postgres  
-
+ 
+### Core stack
+| Layer | Tools |
+|---|---|
+| Languages | TypeScript, Python, Go |
+| Frameworks | React, Angular, Node.js, FastAPI, Django |
+| AI Systems | LangGraph, RAG pipelines, Vector DBs |
+| Infra | AWS, PostgreSQL, MongoDB, Linux |
+ 
 ---
-
-⚡ *If it runs on electricity, I can probably build it.*
+📫 Reach me at yogi.udev@gmail.com
+ 
